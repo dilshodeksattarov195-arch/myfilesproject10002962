@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterferify",
+        "uuid": 9262174,
+        "checksum": "eqt8sf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
